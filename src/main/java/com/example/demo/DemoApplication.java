@@ -12,7 +12,7 @@ public class DemoApplication {
 	
 	@RequestMapping
 	public String home(){
-		return "Hello Git v0.1!";
+		return "Hello Git v0.6!  --master update";
 	}
 
 	public static void main(String[] args) {
